@@ -2,7 +2,7 @@
 
 1. How did the SuperLearner Article resonate with you? What from this list do you already do? Want to start doing or do more of? Is there anything not on this list, that you would add to it?
 
-The SuperLearner article resonated strongly. It was like an outline for the behavior of an autodidact.
+   The SuperLearner article resonated strongly. It was like an outline for the behavior of an autodidact.
 
   1. Things I already do:
       1. Read a lot. I read every day. I am working my way through a reading list I put together that will probably last me the rest of my life.
@@ -15,35 +15,36 @@ The SuperLearner article resonated strongly. It was like an outline for the beha
 
 1. How would you print the string `"Hello World!"` to the terminal?
 
-  puts "Hello World!"
+   puts "Hello World!"
 
 1. What character is used to indicate comments in a ruby file?
 
-  #
+   #
 
 1. Explain the difference between an integer and a float?
 
-  Integers are whole numbers, e.g. 1, 5, 10, 100. Floats have decimals - they are more precise.
+   Integers are whole numbers, e.g. 1, 5, 10, 100. Floats have decimals - they are more precise.
 
 1. In the space below, create a variable `animal` that holds the string `"zebra"`
 
-  animal = "zebra"
+   animal = "zebra"
 
 1. How would you print the string `"zebra"` using the variable that you created above?
 
-  puts animal
+   puts animal
 
 1. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 
-  Interpolation is the embedding of a variable into a string. Example:
+   Interpolation is the embedding of a variable into a string. Example:
 
-  puts "I saw a #{animal} at the zoo the other day."
+   puts "I saw a #{animal} at the zoo the other day."
 
 1. What method is used to get input from a user?
 
-  gets
+   gets
 
 1. Name and describe two common string methods:
 
-  .length = This method will return the number of characters in the string to which it is applied.
-  .split = This method will return an array of each substring separated by some specified character, e.g., spaces (by default), commas (.split(","), etc. 
+   .length = This method will return the number of characters in the string to which it is applied.  
+
+   .split = This method will return an array of each substring separated by some specified character, e.g., spaces (by default), commas (.split(","), etc.
