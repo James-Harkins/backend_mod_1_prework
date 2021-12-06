@@ -2,6 +2,8 @@
 
 1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
 
+    I tend to wait too long to ask questions. I think I ought to start a timer when I start struggling with some problem so that I see when 20 minutes are up and I will be better off asking the question, as noted in the "Your Questions Are Ridiculous; Ask Them Anyway" article.
+
 ### If Statements
 
 1. What is a conditional statement? Give three examples.
