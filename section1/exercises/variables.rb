@@ -31,6 +31,7 @@ puts students - 2
 # Declare three variables, named `first_name`, `is_hungry` and `number_of_pets`.
 # Store the appropriate data types in each.
 # print all three variables to the terminal.
+
 first_name = "James"
 is_hungry = true
 number_of_pets = 1
@@ -48,6 +49,7 @@ puts number_of_pets
 # YOU DO:
 # Re-assign the values to the three variables from the previous challenge to different values (but same data type).
 # print all three variables to the terminal.
+
 first_name = "Gandalf"
 is_hungry = false
 number_of_pets = 8
@@ -58,8 +60,9 @@ puts number_of_pets
 
 # YOU DO:
 # Using the variables below, print the total number of snacks to the terminal:
-healthy_snacks = 6;
-junk_food_snacks = 8;
+
+healthy_snacks = 6
+junk_food_snacks = 8
 total_snacks = healthy_snacks + junk_food_snacks
 
 puts total_snacks
