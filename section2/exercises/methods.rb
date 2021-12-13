@@ -21,9 +21,9 @@ print_name("Albus Dumbledore")
 # their sum. Then call your method three times with different arguments passed in:
 # YOUR CODE HERE
 
-def add(a, b)
+def add(num_1, num_2)
   a + b
-  puts "#{a} + #{b} is #{a + b}"
+  puts "#{num_1} + #{num_2} is #{num_1 + num_2}"
 end
 
 add(5, 25)
